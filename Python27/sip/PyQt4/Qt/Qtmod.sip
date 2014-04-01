@@ -17,3 +17,4 @@
 %Include QtXmlPatterns/QtXmlPatternsmod.sip
 %Include phonon/phononmod.sip
 %Include QtDesigner/QtDesignermod.sip
+%Include QAxContainer/QAxContainermod.sip
